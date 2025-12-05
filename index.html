@@ -650,6 +650,43 @@ function loadLatihan(fileName) {
     })
     .catch(err => alert("File tidak ditemukan: " + fileName));
 }
+// Data contoh mapel dan paket latihan
+const dataLatihan = [
+  { mapel: "Matematika", paket: ["Paket 1", "Paket 2"] },
+  { mapel: "Bahasa Indonesia", paket: ["Paket A", "Paket B"] },
+];
+
+// Fungsi untuk render menu latihan
+function renderLatihan() {
+  const listMapel = document.getElementById("listMapel");
+  listMapel.innerHTML = ""; // kosongkan dulu
+
+  dataLatihan.forEach(item => {
+    const li = document.createElement("li");
+    li.textContent = item.mapel;
+
+    const subList = document.createElement("ul");
+    item.paket.forEach(paket => {
+      const subLi = document.createElement("li");
+      subLi.textContent = paket;
+      subList.appendChild(subLi);
+    });
+
+    li.appendChild(subList);
+    listMapel.appendChild(li);
+  });
+}
+
+// Event tombol LATIHAN
+document.getElementById("btnLatihan").addEventListener("click", () => {
+  const menu = document.getElementById("menuLatihan");
+  if (menu.style.display === "none") {
+    renderLatihan(); // render menu saat dibuka
+    menu.style.display = "block";
+  } else {
+    menu.style.display = "none";
+  }
+});
 
     // Inisialisasi
     render();
