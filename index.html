@@ -572,6 +572,55 @@ document.getElementById('panel').innerHTML = panel;
       };
       input.click();
     }
+// === MENU LATIHAN ===
+function showLatihan() {
+  const menu = `
+    <h2>📚 PILIH LATIHAN</h2>
+    <p>Pilih file latihan yang ingin dikerjakan:</p>
+
+    <button onclick="loadLatihan('MTK Pg.json')">Latihan Pecahan & Rasio</button>
+    <br><br>
+
+    <!-- Anda bisa menambah latihan lain -->
+    <!-- <button onclick="loadLatihan('IPA.json')">Latihan IPA</button> -->
+    <!-- <button onclick="loadLatihan('BahasaIndo.json')">Bahasa Indonesia</button> -->
+  `;
+
+  document.getElementById("latihanMenu").innerHTML = menu;
+  document.getElementById("latihanMenu").style.display = "block";
+}
+
+// === LOAD SOAL LATIHAN DARI FILE JSON ===
+function loadLatihan(fileName) {
+  fetch(fileName)
+    .then(response => response.json())
+    .then(json => {
+      if (json.soal) {
+        questions = json.soal;
+      } else if (Array.isArray(json)) {
+        questions = json;
+      } else {
+        alert("❌ Format JSON tidak dikenali!");
+        return;
+      }
+
+      // reset
+      answers = {};
+      marked = {};
+      started = false;
+      finished = false;
+      current = 0;
+
+      alert(`✅ Latihan "${fileName}" berhasil dimuat (${questions.length} soal). Klik "Mulai Tes" untuk mulai.`);
+
+      document.getElementById("latihanMenu").style.display = "none";
+      render();
+    })
+    .catch(err => {
+      alert("❌ Gagal memuat file: " + fileName);
+      console.error(err);
+    });
+}
 
     function exportJawaban() {
       const namaSiswa = document.getElementById("namaSiswa").value.trim() || "Anonim";
