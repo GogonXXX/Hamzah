@@ -89,13 +89,17 @@
         <button onclick="exportJawaban()">📤 Ekspor Jawaban</button>
         <button onclick="shuffleSoal()">🔀 Acak Soal</button>
         <button onclick="resetJawaban()">🔄 Reset</button>
-        <button onclick="showLatihan()">🎯 Latihan</button>
+        <button id="btnLatihan">Latihan</button>
+</div>
+
       </div>
 
       <div id="quiz" class="card"></div>
       <div id="panel" class="panel"></div>
       <div id="result" class="result" style="display:none"></div>
-      <div id="latihanMenu" class="card" style="display:none"></div>
+     <div id="menuLatihan" style="display:none;">
+  <h3>Menu Latihan</h3>
+  <ul id="listMapel"></ul>
 
   <script>
     // ==== Data Soal Default (Berbagai Tipe) ====
