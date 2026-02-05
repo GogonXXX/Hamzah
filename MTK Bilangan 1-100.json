@@ -1,0 +1,389 @@
+{
+  "soal": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "q": "Bilangan manakah yang lebih besar dari 47 tetapi lebih kecil dari 50?",
+      "choices": ["46", "48", "50", "52"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Bilangan 1–100"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "q": "Urutan bilangan yang benar dari yang terkecil ke terbesar adalah ...",
+      "choices": ["35, 45, 25", "25, 35, 45", "45, 35, 25", "35, 25, 45"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Bilangan 1–100"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "q": "Bilangan 60 tersusun dari ...",
+      "choices": ["5 puluhan", "6 puluhan", "6 satuan", "60 satuan"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Bilangan 1–100"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "q": "Jika kamu memiliki 4 puluhan dan 3 satuan, bilangan yang terbentuk adalah ...",
+      "choices": ["34", "40", "43", "47"],
+      "answer": 2,
+      "cognitive_level": "C4",
+      "materi": "Bilangan 1–100"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "q": "Bilangan manakah yang paling mendekati 70?",
+      "choices": ["65", "68", "72", "60"],
+      "answer": 1,
+      "cognitive_level": "C5",
+      "materi": "Bilangan 1–100"
+    },
+
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "q": "Ani menghitung jumlah buku dari 1 sampai 50. Bilangan terakhir yang disebut Ani adalah ...",
+      "choices": ["49", "50", "51", "48"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Bilangan 1–100"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "q": "Bilangan 79 lebih besar dari ...",
+      "choices": ["80", "81", "78", "82"],
+      "answer": 2,
+      "cognitive_level": "C4",
+      "materi": "Bilangan 1–100"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "q": "Bilangan yang tepat untuk melengkapi pola 10, 20, 30, ..., 50 adalah ...",
+      "choices": ["35", "40", "45", "60"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Bilangan 1–100"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "q": "Bilangan manakah yang nilainya sama dengan 7 puluhan?",
+      "choices": ["70", "17", "77", "700"],
+      "answer": 0,
+      "cognitive_level": "C4",
+      "materi": "Bilangan 1–100"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "q": "Jika satu bilangan memiliki 9 puluhan, maka bilangan tersebut adalah ...",
+      "choices": ["19", "90", "99", "9"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Bilangan 1–100"
+    },
+
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "q": "Bilangan yang berada di antara 42 dan 44 adalah ...",
+      "choices": ["41", "43", "45", "40"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Bilangan 1–100"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "q": "Bilangan manakah yang jika dibalik angka puluhan dan satuannya menjadi 36?",
+      "choices": ["63", "30", "66", "39"],
+      "answer": 0,
+      "cognitive_level": "C5",
+      "materi": "Bilangan 1–100"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "q": "Bilangan 58 jika diuraikan menjadi ...",
+      "choices": ["5 + 8", "50 + 8", "58 + 0", "40 + 18"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Bilangan 1–100"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "q": "Manakah pasangan bilangan yang nilainya sama?",
+      "choices": ["40 + 5 dan 45", "30 + 20 dan 40", "50 + 5 dan 54", "60 + 10 dan 80"],
+      "answer": 0,
+      "cognitive_level": "C5",
+      "materi": "Bilangan 1–100"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "q": "Bilangan terbesar dari pilihan berikut adalah ...",
+      "choices": ["89", "98", "90", "87"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Bilangan 1–100"
+    },
+
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "q": "Jika kamu menambahkan 1 puluhan ke bilangan 34, hasilnya adalah ...",
+      "choices": ["35", "40", "44", "45"],
+      "answer": 2,
+      "cognitive_level": "C6",
+      "materi": "Bilangan 1–100"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "q": "Bilangan manakah yang tidak memiliki angka satuan?",
+      "choices": ["30", "35", "43", "57"],
+      "answer": 0,
+      "cognitive_level": "C4",
+      "materi": "Bilangan 1–100"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "q": "Jika bilangan terdiri dari 8 puluhan dan 0 satuan, maka nilainya adalah ...",
+      "choices": ["8", "80", "800", "88"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Bilangan 1–100"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "q": "Bilangan 99 lebih besar dari 90 sebanyak ...",
+      "choices": ["9", "10", "19", "89"],
+      "answer": 0,
+      "cognitive_level": "C6",
+      "materi": "Bilangan 1–100"
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "q": "Manakah pernyataan yang benar?",
+      "choices": ["65 < 56", "72 > 70", "48 > 84", "39 = 93"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Bilangan 1–100"
+    },
+
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "q": "Bilangan yang terdiri dari 5 puluhan dan 2 satuan adalah ....",
+      "answer": "52",
+      "acceptable_answers": ["52"],
+      "score": 1,
+      "materi": "Bilangan 1–100",
+      "cognitive_level": "C4"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank",
+      "q": "Tuliskan bilangan setelah 69.",
+      "answer": "70",
+      "acceptable_answers": ["70"],
+      "score": 1,
+      "materi": "Bilangan 1–100",
+      "cognitive_level": "C4"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank",
+      "q": "Bilangan sebelum 80 adalah ....",
+      "answer": "79",
+      "acceptable_answers": ["79"],
+      "score": 1,
+      "materi": "Bilangan 1–100",
+      "cognitive_level": "C4"
+    },
+    {
+      "id": 24,
+      "type": "fill_blank",
+      "q": "Jika suatu bilangan memiliki 6 puluhan, maka bilangan tersebut adalah ....",
+      "answer": "60",
+      "acceptable_answers": ["60"],
+      "score": 1,
+      "materi": "Bilangan 1–100",
+      "cognitive_level": "C4"
+    },
+    {
+      "id": 25,
+      "type": "fill_blank",
+      "q": "Bilangan terbesar antara 47 dan 74 adalah ....",
+      "answer": "74",
+      "acceptable_answers": ["74"],
+      "score": 1,
+      "materi": "Bilangan 1–100",
+      "cognitive_level": "C5"
+    },
+
+    {
+      "id": 26,
+      "type": "essay",
+      "q": "Jelaskan cara menentukan bilangan yang lebih besar antara 68 dan 86.",
+      "maxScore": 4,
+      "materi": "Bilangan 1–100"
+    },
+    {
+      "id": 27,
+      "type": "essay",
+      "q": "Uraikan bilangan 74 menjadi puluhan dan satuan.",
+      "maxScore": 4,
+      "materi": "Bilangan 1–100"
+    },
+    {
+      "id": 28,
+      "type": "essay",
+      "q": "Mengapa 90 disebut memiliki 9 puluhan dan 0 satuan?",
+      "maxScore": 4,
+      "materi": "Bilangan 1–100"
+    },
+    {
+      "id": 29,
+      "type": "essay",
+      "q": "Buatlah dua bilangan yang lebih besar dari 50 tetapi lebih kecil dari 60.",
+      "maxScore": 4,
+      "materi": "Bilangan 1–100"
+    },
+    {
+      "id": 30,
+      "type": "essay",
+      "q": "Jelaskan dengan contoh apa yang dimaksud bilangan puluhan.",
+      "maxScore": 4,
+      "materi": "Bilangan 1–100"
+    {
+  "id": 26,
+  "type": "essay",
+  "q": "Jelaskan cara menentukan bilangan yang lebih besar antara 68 dan 86.",
+  "maxScore": 4,
+  "scoring": {
+    "method": "keyword_based",
+    "keywords": [
+      {
+        "group": "jawaban",
+        "words": ["puluhan", "satuan", "8 puluhan", "6 puluhan", "86 lebih besar"],
+        "weight": 1.0
+      }
+    ],
+    "thresholds": {
+      "excellent": 0.8,
+      "good": 0.6,
+      "fair": 0.4
+    }
+  },
+  "materi": "Bilangan 1–100",
+  "cognitive_level": "C4"
+},
+{
+  "id": 27,
+  "type": "essay",
+  "q": "Uraikan bilangan 74 menjadi puluhan dan satuan.",
+  "maxScore": 4,
+  "scoring": {
+    "method": "keyword_based",
+    "keywords": [
+      {
+        "group": "jawaban",
+        "words": ["7 puluhan", "4 satuan", "70", "4"],
+        "weight": 1.0
+      }
+    ],
+    "thresholds": {
+      "excellent": 0.8,
+      "good": 0.6,
+      "fair": 0.4
+    }
+  },
+  "materi": "Bilangan 1–100",
+  "cognitive_level": "C4"
+},
+{
+  "id": 28,
+  "type": "essay",
+  "q": "Mengapa bilangan 90 disebut memiliki 9 puluhan dan 0 satuan?",
+  "maxScore": 4,
+  "scoring": {
+    "method": "keyword_based",
+    "keywords": [
+      {
+        "group": "jawaban",
+        "words": ["9 puluhan", "0 satuan", "tidak ada satuan", "90"],
+        "weight": 1.0
+      }
+    ],
+    "thresholds": {
+      "excellent": 0.8,
+      "good": 0.6,
+      "fair": 0.4
+    }
+  },
+  "materi": "Bilangan 1–100",
+  "cognitive_level": "C5"
+},
+{
+  "id": 29,
+  "type": "essay",
+  "q": "Buatlah dua bilangan yang lebih besar dari 50 tetapi lebih kecil dari 60.",
+  "maxScore": 4,
+  "scoring": {
+    "method": "keyword_based",
+    "keywords": [
+      {
+        "group": "jawaban",
+        "words": ["51", "52", "53", "54", "55", "56", "57", "58", "59"],
+        "weight": 1.0
+      }
+    ],
+    "thresholds": {
+      "excellent": 0.8,
+      "good": 0.6,
+      "fair": 0.4
+    }
+  },
+  "materi": "Bilangan 1–100",
+  "cognitive_level": "C6"
+},
+{
+  "id": 30,
+  "type": "essay",
+  "q": "Jelaskan apa yang dimaksud dengan bilangan puluhan dan berikan contohnya.",
+  "maxScore": 4,
+  "scoring": {
+    "method": "keyword_based",
+    "keywords": [
+      {
+        "group": "jawaban",
+        "words": ["puluhan", "angka nol", "10", "20", "30", "kelipatan 10"],
+        "weight": 1.0
+      }
+    ],
+    "thresholds": {
+      "excellent": 0.8,
+      "good": 0.6,
+      "fair": 0.4
+    }
+  },
+  "materi": "Bilangan 1–100",
+  "cognitive_level": "C4"
+}
+
+  ]
+}
