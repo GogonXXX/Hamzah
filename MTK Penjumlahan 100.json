@@ -1,0 +1,334 @@
+{
+  "soal": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "q": "Hasil dari 34 + 15 adalah ...",
+      "choices": ["39", "49", "50", "45"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Penjumlahan"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "q": "Ani mempunyai 27 kelereng, lalu diberi 13 kelereng. Jumlah kelereng Ani sekarang adalah ...",
+      "choices": ["30", "39", "40", "50"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Penjumlahan"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "q": "Hasil dari 40 + 28 adalah ...",
+      "choices": ["58", "68", "78", "60"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Penjumlahan"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "q": "Bilangan yang tepat untuk melengkapi 25 + ... = 60 adalah ...",
+      "choices": ["25", "30", "35", "40"],
+      "answer": 2,
+      "cognitive_level": "C5",
+      "materi": "Penjumlahan"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "q": "Jika 46 + 14 = ..., maka hasilnya adalah ...",
+      "choices": ["50", "60", "70", "56"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Penjumlahan"
+    },
+
+    {
+      "id": 6,
+      "type": "multiple_choice",
+      "q": "Hasil dari 29 + 31 adalah ...",
+      "choices": ["50", "60", "70", "58"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Penjumlahan"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "q": "Jumlah dari 17 dan 23 adalah ...",
+      "choices": ["30", "40", "50", "35"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Penjumlahan"
+    },
+    {
+      "id": 8,
+      "type": "multiple_choice",
+      "q": "Rina memiliki 35 permen dan membeli 20 permen lagi. Jumlah permen Rina adalah ...",
+      "choices": ["45", "50", "55", "60"],
+      "answer": 2,
+      "cognitive_level": "C4",
+      "materi": "Penjumlahan"
+    },
+    {
+      "id": 9,
+      "type": "multiple_choice",
+      "q": "Hasil dari 58 + 12 adalah ...",
+      "choices": ["60", "70", "80", "68"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Penjumlahan"
+    },
+    {
+      "id": 10,
+      "type": "multiple_choice",
+      "q": "Jika hasil penjumlahan adalah 75 dan salah satu bilangannya 40, maka bilangan lainnya adalah ...",
+      "choices": ["25", "30", "35", "45"],
+      "answer": 2,
+      "cognitive_level": "C5",
+      "materi": "Penjumlahan"
+    },
+
+    {
+      "id": 11,
+      "type": "multiple_choice",
+      "q": "Manakah penjumlahan yang hasilnya paling besar?",
+      "choices": ["32 + 18", "40 + 9", "25 + 25", "30 + 20"],
+      "answer": 3,
+      "cognitive_level": "C5",
+      "materi": "Penjumlahan"
+    },
+    {
+      "id": 12,
+      "type": "multiple_choice",
+      "q": "Hasil dari 60 + 19 adalah ...",
+      "choices": ["69", "79", "89", "70"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Penjumlahan"
+    },
+    {
+      "id": 13,
+      "type": "multiple_choice",
+      "q": "Bilangan yang tepat untuk 48 + ... = 70 adalah ...",
+      "choices": ["12", "22", "32", "42"],
+      "answer": 1,
+      "cognitive_level": "C5",
+      "materi": "Penjumlahan"
+    },
+    {
+      "id": 14,
+      "type": "multiple_choice",
+      "q": "Jika kamu menjumlahkan dua bilangan puluhan, hasilnya pasti ...",
+      "choices": ["Bilangan satuan", "Bilangan ganjil", "Bilangan puluhan", "Bilangan kecil"],
+      "answer": 2,
+      "cognitive_level": "C6",
+      "materi": "Penjumlahan"
+    },
+    {
+      "id": 15,
+      "type": "multiple_choice",
+      "q": "Manakah pernyataan yang benar?",
+      "choices": ["25 + 30 = 45", "40 + 20 = 60", "18 + 12 = 40", "50 + 5 = 65"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Penjumlahan"
+    },
+
+    {
+      "id": 16,
+      "type": "multiple_choice",
+      "q": "Hasil dari 37 + 23 adalah ...",
+      "choices": ["50", "60", "70", "55"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Penjumlahan"
+    },
+    {
+      "id": 17,
+      "type": "multiple_choice",
+      "q": "Jika 45 ditambah suatu bilangan hasilnya 90, maka bilangan itu adalah ...",
+      "choices": ["35", "40", "45", "50"],
+      "answer": 2,
+      "cognitive_level": "C5",
+      "materi": "Penjumlahan"
+    },
+    {
+      "id": 18,
+      "type": "multiple_choice",
+      "q": "Hasil dari 28 + 32 adalah ...",
+      "choices": ["50", "55", "60", "65"],
+      "answer": 2,
+      "cognitive_level": "C4",
+      "materi": "Penjumlahan"
+    },
+    {
+      "id": 19,
+      "type": "multiple_choice",
+      "q": "Jika kamu menambahkan 10 ke bilangan 64, hasilnya adalah ...",
+      "choices": ["74", "84", "64", "70"],
+      "answer": 0,
+      "cognitive_level": "C6",
+      "materi": "Penjumlahan"
+    },
+    {
+      "id": 20,
+      "type": "multiple_choice",
+      "q": "Jumlah dari 49 dan 21 adalah ...",
+      "choices": ["60", "70", "80", "69"],
+      "answer": 1,
+      "cognitive_level": "C4",
+      "materi": "Penjumlahan"
+    },
+
+    {
+      "id": 21,
+      "type": "fill_blank",
+      "q": "Hasil dari 36 + 24 adalah ....",
+      "answer": "60",
+      "acceptable_answers": ["60"],
+      "score": 1,
+      "materi": "Penjumlahan",
+      "cognitive_level": "C4"
+    },
+    {
+      "id": 22,
+      "type": "fill_blank",
+      "q": "27 + 13 = ....",
+      "answer": "40",
+      "acceptable_answers": ["40"],
+      "score": 1,
+      "materi": "Penjumlahan",
+      "cognitive_level": "C4"
+    },
+    {
+      "id": 23,
+      "type": "fill_blank",
+      "q": "Jika hasil penjumlahan adalah 50 dan salah satu bilangannya 20, maka bilangan lainnya adalah ....",
+      "answer": "30",
+      "acceptable_answers": ["30"],
+      "score": 1,
+      "materi": "Penjumlahan",
+      "cognitive_level": "C5"
+    },
+    {
+      "id": 24,
+      "type": "fill_blank",
+      "q": "45 + 15 = ....",
+      "answer": "60",
+      "acceptable_answers": ["60"],
+      "score": 1,
+      "materi": "Penjumlahan",
+      "cognitive_level": "C4"
+    },
+    {
+      "id": 25,
+      "type": "fill_blank",
+      "q": "58 + 12 = ....",
+      "answer": "70",
+      "acceptable_answers": ["70"],
+      "score": 1,
+      "materi": "Penjumlahan",
+      "cognitive_level": "C4"
+    },
+
+    {
+      "id": 26,
+      "type": "essay",
+      "q": "Jelaskan cara menghitung 38 + 24.",
+      "maxScore": 4,
+      "scoring": {
+        "method": "keyword_based",
+        "keywords": [
+          {
+            "group": "jawaban",
+            "words": ["puluhan", "satuan", "30 + 20", "8 + 4", "62"],
+            "weight": 1.0
+          }
+        ],
+        "thresholds": { "excellent": 0.8, "good": 0.6, "fair": 0.4 }
+      },
+      "materi": "Penjumlahan",
+      "cognitive_level": "C4"
+    },
+    {
+      "id": 27,
+      "type": "essay",
+      "q": "Mengapa 40 + 30 lebih mudah dihitung dibandingkan 38 + 27?",
+      "maxScore": 4,
+      "scoring": {
+        "method": "keyword_based",
+        "keywords": [
+          {
+            "group": "jawaban",
+            "words": ["bilangan puluhan", "tanpa satuan", "lebih mudah", "langsung"],
+            "weight": 1.0
+          }
+        ],
+        "thresholds": { "excellent": 0.8, "good": 0.6, "fair": 0.4 }
+      },
+      "materi": "Penjumlahan",
+      "cognitive_level": "C5"
+    },
+    {
+      "id": 28,
+      "type": "essay",
+      "q": "Buatlah satu soal cerita tentang penjumlahan dan jelaskan jawabannya.",
+      "maxScore": 4,
+      "scoring": {
+        "method": "keyword_based",
+        "keywords": [
+          {
+            "group": "jawaban",
+            "words": ["jumlah", "ditambah", "hasil", "penjumlahan"],
+            "weight": 1.0
+          }
+        ],
+        "thresholds": { "excellent": 0.8, "good": 0.6, "fair": 0.4 }
+      },
+      "materi": "Penjumlahan",
+      "cognitive_level": "C6"
+    },
+    {
+      "id": 29,
+      "type": "essay",
+      "q": "Jelaskan kegunaan penjumlahan dalam kehidupan sehari-hari.",
+      "maxScore": 4,
+      "scoring": {
+        "method": "keyword_based",
+        "keywords": [
+          {
+            "group": "jawaban",
+            "words": ["menghitung", "jumlah", "uang", "benda"],
+            "weight": 1.0
+          }
+        ],
+        "thresholds": { "excellent": 0.8, "good": 0.6, "fair": 0.4 }
+      },
+      "materi": "Penjumlahan",
+      "cognitive_level": "C4"
+    },
+    {
+      "id": 30,
+      "type": "essay",
+      "q": "Mengapa kita perlu menguasai penjumlahan sebelum belajar pengurangan?",
+      "maxScore": 4,
+      "scoring": {
+        "method": "keyword_based",
+        "keywords": [
+          {
+            "group": "jawaban",
+            "words": ["dasar", "kebalikan", "pengurangan", "matematika"],
+            "weight": 1.0
+          }
+        ],
+        "thresholds": { "excellent": 0.8, "good": 0.6, "fair": 0.4 }
+      },
+      "materi": "Penjumlahan",
+      "cognitive_level": "C6"
+    }
+  ]
+}
