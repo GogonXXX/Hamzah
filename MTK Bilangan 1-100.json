@@ -3,317 +3,215 @@
     {
       "id": 1,
       "type": "multiple_choice",
-      "q": "Ani memiliki 18 permen. Ia ingin membagikan sama banyak kepada 3 temannya. Operasi hitung yang tepat untuk mengetahui jumlah permen setiap teman adalah ...",
-      "choices": ["18 + 3", "18 - 3", "18 ÷ 3", "18 × 3"],
-      "answer": 2,
+      "q": "Bilangan loncat 2 dari 2 adalah 2, 4, 6, ... Angka berikutnya adalah ...",
+      "choices": ["7", "8", "9", "10"],
+      "answer": 1,
       "score": 1,
-      "materi": "pembagian bilangan 1-20",
-      "kognitif": "C4"
+      "materi": "bilangan loncat 2",
+      "kognitif": "C3"
     },
     {
       "id": 2,
       "type": "multiple_choice",
-      "q": "Hasil dari 4 × 5 sama dengan hasil operasi ...",
-      "choices": ["20 ÷ 4", "10 + 5", "25 - 5", "15 + 6"],
-      "answer": 0,
+      "q": "Bilangan loncat 5 dari 5 adalah 5, 10, ... Angka berikutnya adalah ...",
+      "choices": ["12", "14", "15", "20"],
+      "answer": 2,
       "score": 1,
-      "materi": "perkalian dan pembagian",
-      "kognitif": "C4"
+      "materi": "bilangan loncat 5",
+      "kognitif": "C3"
     },
     {
       "id": 3,
       "type": "multiple_choice",
-      "q": "Budi mempunyai 12 kelereng, lalu membeli lagi 5 kelereng. Ia memberikan 7 kelereng kepada adiknya. Operasi yang tepat adalah ...",
-      "choices": ["12 + 5 - 7", "12 - 5 + 7", "12 × 5 - 7", "12 + 5 × 7"],
-      "answer": 0,
+      "q": "Hasil dari 6 + 4 adalah ...",
+      "choices": ["8", "9", "10", "11"],
+      "answer": 2,
       "score": 1,
-      "materi": "operasi campuran",
-      "kognitif": "C5"
+      "materi": "penjumlahan",
+      "kognitif": "C3"
     },
     {
       "id": 4,
       "type": "multiple_choice",
-      "q": "Manakah pernyataan yang BENAR?",
-      "choices": ["10 + 5 = 20", "6 × 3 = 18", "20 ÷ 5 = 3", "8 + 4 = 11"],
+      "q": "7 - 3 = ...",
+      "choices": ["3", "4", "5", "6"],
       "answer": 1,
       "score": 1,
-      "materi": "penalaran operasi hitung",
-      "kognitif": "C4"
+      "materi": "pengurangan",
+      "kognitif": "C3"
     },
     {
       "id": 5,
       "type": "multiple_choice",
-      "q": "Hasil 20 - (4 × 3) adalah ...",
-      "choices": ["8", "12", "16", "4"],
-      "answer": 0,
+      "q": "Bilangan loncat 10 dari 0 adalah 0, 10, ... Angka berikutnya adalah ...",
+      "choices": ["15", "18", "20", "25"],
+      "answer": 2,
       "score": 1,
-      "materi": "operasi campuran",
-      "kognitif": "C5"
+      "materi": "bilangan loncat 10",
+      "kognitif": "C3"
     },
 
     {
       "id": 6,
       "type": "multiple_choice",
-      "q": "Jika hasil suatu operasi adalah 10, manakah yang MUNGKIN benar?",
-      "choices": ["5 × 3", "20 ÷ 2", "8 + 3", "12 - 1"],
+      "q": "Ani melompat angka 2 dimulai dari 4. Urutan yang benar adalah ...",
+      "choices": ["4, 5, 6", "4, 6, 8", "4, 7, 10", "4, 8, 12"],
       "answer": 1,
       "score": 1,
-      "materi": "analisis hasil operasi",
+      "materi": "bilangan loncat 2",
       "kognitif": "C4"
     },
     {
       "id": 7,
       "type": "multiple_choice",
-      "q": "Rina memiliki 16 pensil. Pensil tersebut dimasukkan ke dalam kotak, setiap kotak berisi 4 pensil. Banyak kotak yang dibutuhkan adalah ...",
-      "choices": ["2", "3", "4", "5"],
-      "answer": 2,
+      "q": "Hasil penjumlahan yang sesuai dengan bilangan loncat 2 adalah ...",
+      "choices": ["3 + 2", "4 + 2", "5 + 1", "6 + 3"],
+      "answer": 1,
       "score": 1,
-      "materi": "pembagian",
+      "materi": "penjumlahan dan bilangan loncat",
       "kognitif": "C4"
     },
     {
       "id": 8,
       "type": "multiple_choice",
-      "q": "Manakah operasi yang hasilnya PALING BESAR?",
-      "choices": ["3 × 4", "20 - 5", "16 ÷ 2", "10 + 1"],
-      "answer": 1,
+      "q": "Bilangan loncat 5 dari 0 yang benar adalah ...",
+      "choices": [
+        "0, 5, 10",
+        "0, 4, 8",
+        "0, 6, 12",
+        "0, 3, 6"
+      ],
+      "answer": 0,
       "score": 1,
-      "materi": "perbandingan hasil operasi",
-      "kognitif": "C5"
+      "materi": "bilangan loncat 5",
+      "kognitif": "C4"
     },
     {
       "id": 9,
       "type": "multiple_choice",
-      "q": "Jika 5 × □ = 20, maka nilai □ adalah ...",
-      "choices": ["2", "3", "4", "5"],
+      "q": "Hasil dari 10 - 5 sama dengan bilangan loncat ...",
+      "choices": ["1", "2", "5", "10"],
       "answer": 2,
       "score": 1,
-      "materi": "perkalian",
+      "materi": "pengurangan dan bilangan loncat",
       "kognitif": "C4"
     },
     {
       "id": 10,
       "type": "multiple_choice",
-      "q": "Manakah soal cerita yang sesuai dengan operasi 18 ÷ 6?",
-      "choices": [
-        "Ada 18 apel dibagi sama banyak kepada 6 anak",
-        "Ada 18 apel ditambah 6 apel",
-        "Ada 6 apel dikali 18",
-        "Ada 18 apel dikurangi 6"
-      ],
+      "q": "Manakah yang merupakan bilangan loncat 2?",
+      "choices": ["2, 4, 6", "1, 3, 6", "2, 5, 7", "3, 6, 10"],
       "answer": 0,
       "score": 1,
-      "materi": "pemodelan operasi hitung",
-      "kognitif": "C6"
+      "materi": "bilangan loncat",
+      "kognitif": "C4"
     },
 
     {
       "id": 11,
       "type": "multiple_choice",
-      "q": "Hasil dari (6 + 4) × 2 adalah ...",
-      "choices": ["20", "14", "16", "12"],
-      "answer": 0,
+      "q": "Budi menghitung dengan loncat 2 dari 6. Hasil hitungan ketiga adalah ...",
+      "choices": ["8", "10", "12", "14"],
+      "answer": 1,
       "score": 1,
-      "materi": "operasi campuran",
+      "materi": "bilangan loncat 2",
       "kognitif": "C5"
     },
     {
       "id": 12,
       "type": "multiple_choice",
-      "q": "Manakah operasi yang TIDAK bernilai 12?",
-      "choices": ["3 × 4", "6 + 6", "20 - 8", "16 ÷ 2"],
-      "answer": 3,
+      "q": "Manakah hasil yang BENAR?",
+      "choices": ["5 + 5 = 9", "10 - 5 = 5", "6 + 3 = 8", "7 - 2 = 6"],
+      "answer": 1,
       "score": 1,
-      "materi": "evaluasi hasil",
+      "materi": "operasi hitung",
       "kognitif": "C5"
     },
     {
       "id": 13,
       "type": "multiple_choice",
-      "q": "Jika hasil perkalian dua bilangan adalah 15, pasangan bilangan yang benar adalah ...",
-      "choices": ["3 dan 4", "5 dan 3", "6 dan 3", "10 dan 2"],
-      "answer": 1,
+      "q": "Bilangan loncat 5 dari 5 sampai 20 adalah ...",
+      "choices": [
+        "5, 10, 15, 20",
+        "5, 8, 11, 14",
+        "5, 6, 7, 8",
+        "5, 15, 20"
+      ],
+      "answer": 0,
       "score": 1,
-      "materi": "perkalian",
-      "kognitif": "C4"
+      "materi": "bilangan loncat 5",
+      "kognitif": "C5"
     },
     {
       "id": 14,
       "type": "multiple_choice",
-      "q": "Diketahui 20 - x = 12. Nilai x adalah ...",
-      "choices": ["6", "7", "8", "9"],
+      "q": "Jika Andi memiliki 4 apel lalu mendapat 4 apel lagi, cara cepat menghitungnya adalah ...",
+      "choices": ["loncat 1", "loncat 2", "loncat 4", "loncat 5"],
       "answer": 2,
       "score": 1,
-      "materi": "persamaan sederhana",
+      "materi": "penjumlahan dan bilangan loncat",
       "kognitif": "C5"
     },
     {
       "id": 15,
       "type": "multiple_choice",
-      "q": "Manakah pernyataan yang SALAH?",
-      "choices": ["4 × 5 = 20", "18 ÷ 3 = 6", "7 + 8 = 15", "16 ÷ 2 = 6"],
-      "answer": 3,
+      "q": "Manakah yang TIDAK termasuk bilangan loncat 10?",
+      "choices": ["0", "10", "15", "20"],
+      "answer": 2,
       "score": 1,
-      "materi": "penalaran",
+      "materi": "bilangan loncat 10",
       "kognitif": "C6"
     },
 
     {
       "id": 16,
       "type": "multiple_choice",
-      "q": "Jika suatu bilangan dikalikan 2 hasilnya 14, bilangan tersebut adalah ...",
-      "choices": ["5", "6", "7", "8"],
-      "answer": 2,
+      "q": "Untuk menghitung 2 + 2 + 2, bilangan loncat yang tepat adalah ...",
+      "choices": ["loncat 1", "loncat 2", "loncat 5", "loncat 10"],
+      "answer": 1,
       "score": 1,
-      "materi": "perkalian",
-      "kognitif": "C4"
+      "materi": "penjumlahan berulang",
+      "kognitif": "C6"
     },
     {
       "id": 17,
       "type": "multiple_choice",
-      "q": "Manakah operasi yang hasilnya SAMA dengan 9 + 6?",
-      "choices": ["3 × 5", "20 - 4", "18 ÷ 2", "7 + 7"],
-      "answer": 0,
+      "q": "Jika hasil suatu hitungan adalah 15, bilangan loncat yang mungkin digunakan adalah ...",
+      "choices": ["loncat 2", "loncat 3", "loncat 5", "loncat 10"],
+      "answer": 2,
       "score": 1,
-      "materi": "analisis kesetaraan",
-      "kognitif": "C4"
+      "materi": "bilangan loncat",
+      "kognitif": "C6"
     },
     {
       "id": 18,
       "type": "multiple_choice",
-      "q": "Hasil dari 20 ÷ 5 + 3 adalah ...",
-      "choices": ["4", "7", "8", "9"],
-      "answer": 1,
+      "q": "Rina menghitung 5, 10, 15. Ia menggunakan bilangan loncat ...",
+      "choices": ["2", "3", "5", "10"],
+      "answer": 2,
       "score": 1,
-      "materi": "operasi campuran",
-      "kognitif": "C5"
+      "materi": "bilangan loncat",
+      "kognitif": "C4"
     },
     {
       "id": 19,
       "type": "multiple_choice",
-      "q": "Manakah soal cerita yang sesuai dengan 7 × 2?",
-      "choices": [
-        "Ada 7 kotak, tiap kotak berisi 2 pensil",
-        "Ada 7 pensil dibagi 2 anak",
-        "Ada 7 pensil ditambah 2",
-        "Ada 2 pensil dikurangi 7"
-      ],
-      "answer": 0,
+      "q": "Manakah cara tercepat menghitung 10 + 10?",
+      "choices": ["loncat 1", "loncat 2", "loncat 5", "loncat 10"],
+      "answer": 3,
       "score": 1,
-      "materi": "pemecahan masalah",
+      "materi": "penjumlahan",
       "kognitif": "C6"
     },
     {
       "id": 20,
       "type": "multiple_choice",
-      "q": "Jika hasil suatu operasi adalah 1, manakah yang benar?",
-      "choices": ["2 - 1", "2 ÷ 2", "1 + 1", "1 × 2"],
-      "answer": 1,
-      "score": 1,
-      "materi": "analisis operasi",
-      "kognitif": "C4"
-    },
-
-    {
-      "id": 21,
-      "type": "multiple_choice",
-      "q": "Manakah operasi yang hasilnya 20?",
-      "choices": ["4 × 4", "10 + 10", "18 + 1", "5 × 3"],
-      "answer": 1,
-      "score": 1,
-      "materi": "evaluasi hasil",
-      "kognitif": "C4"
-    },
-    {
-      "id": 22,
-      "type": "multiple_choice",
-      "q": "Jika 15 dibagi menjadi 3 bagian sama besar, setiap bagian berisi ...",
-      "choices": ["3", "4", "5", "6"],
+      "q": "Bilangan loncat membantu kita menghitung dengan cara ...",
+      "choices": ["lebih lambat", "acak", "lebih cepat", "tidak berurutan"],
       "answer": 2,
       "score": 1,
-      "materi": "pembagian",
-      "kognitif": "C4"
-    },
-    {
-      "id": 23,
-      "type": "multiple_choice",
-      "q": "Manakah yang NILAINYA paling kecil?",
-      "choices": ["10 - 3", "4 × 2", "16 ÷ 4", "6 + 1"],
-      "answer": 2,
-      "score": 1,
-      "materi": "perbandingan",
-      "kognitif": "C5"
-    },
-    {
-      "id": 24,
-      "type": "multiple_choice",
-      "q": "Jika suatu bilangan ditambah 5 hasilnya 17, bilangan tersebut adalah ...",
-      "choices": ["10", "11", "12", "13"],
-      "answer": 2,
-      "score": 1,
-      "materi": "persamaan sederhana",
-      "kognitif": "C5"
-    },
-    {
-      "id": 25,
-      "type": "multiple_choice",
-      "q": "Manakah operasi yang hasilnya TIDAK sama dengan 8?",
-      "choices": ["4 + 4", "16 ÷ 2", "2 × 4", "10 - 1"],
-      "answer": 3,
-      "score": 1,
-      "materi": "evaluasi",
+      "materi": "konsep bilangan loncat",
       "kognitif": "C6"
-    },
-
-    {
-      "id": 26,
-      "type": "multiple_choice",
-      "q": "Jika 3 × x = 18, maka nilai x adalah ...",
-      "choices": ["4", "5", "6", "7"],
-      "answer": 2,
-      "score": 1,
-      "materi": "perkalian",
-      "kognitif": "C4"
-    },
-    {
-      "id": 27,
-      "type": "multiple_choice",
-      "q": "Manakah pernyataan yang BENAR?",
-      "choices": ["20 ÷ 4 = 6", "5 × 4 = 20", "18 - 9 = 8", "7 + 7 = 15"],
-      "answer": 1,
-      "score": 1,
-      "materi": "penalaran",
-      "kognitif": "C4"
-    },
-    {
-      "id": 28,
-      "type": "multiple_choice",
-      "q": "Hasil dari (12 - 6) + 8 adalah ...",
-      "choices": ["12", "14", "16", "18"],
-      "answer": 1,
-      "score": 1,
-      "materi": "operasi campuran",
-      "kognitif": "C5"
-    },
-    {
-      "id": 29,
-      "type": "multiple_choice",
-      "q": "Manakah operasi yang PALING TEPAT untuk menyelesaikan soal pembagian sama banyak?",
-      "choices": ["Penjumlahan", "Pengurangan", "Perkalian", "Pembagian"],
-      "answer": 3,
-      "score": 1,
-      "materi": "konsep operasi",
-      "kognitif": "C6"
-    },
-    {
-      "id": 30,
-      "type": "multiple_choice",
-      "q": "Jika hasil suatu operasi adalah 0, operasi yang benar adalah ...",
-      "choices": ["5 - 5", "5 ÷ 5", "5 × 0", "0 + 0"],
-      "answer": 0,
-      "score": 1,
-      "materi": "analisis hasil operasi",
-      "kognitif": "C4"
     }
   ]
 }
