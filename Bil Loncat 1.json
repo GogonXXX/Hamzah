@@ -33,7 +33,7 @@
     {
       "id": 4,
       "type": "multiple_choice",
-      "q": "Roni menghitung dengan bilangan loncat 5, 10, 15. bilangan terakhirnya adalah ...",
+      "q": "Roni menghitung dengan bilangan loncat 5, 10, 15. bilangan terakhir Roni adalah ...",
       "choices": ["10", "12", "15", "20"],
       "answer": 2,
       "score": 1,
