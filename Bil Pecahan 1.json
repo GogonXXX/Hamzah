@@ -1,19 +1,22 @@
 {
-  "id": 1,
-  "type": "multiple_choice",
-  "q": "Bagian Ayah adalah 3/8",
-  "fraction": {
-    "pembilang": 3,
-    "penyebut": 8
-  },
-  "choices": [
-    "3/8",
-    "1/4",
-    "2/8",
-    "1/2"
-  ],
-  "answer": 0
-},
+  "soal": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "q": "Bagian Ayah adalah 3/8",
+      "fraction": {
+        "pembilang": 3,
+        "penyebut": 8
+      },
+      "choices": [
+        "3/8",
+        "1/4",
+        "2/8",
+        "1/2"
+      ],
+      "answer": 0,
+      "score": 1
+    },
     {
       "id": 2,
       "type": "multiple_choice",
@@ -22,7 +25,7 @@
         "Andi",
         "Budi",
         "Cici",
-        "Andi dan Budi Semua sama besar"
+        "Andi dan Budi sama besar"
       ],
       "answer": 3,
       "score": 1,
