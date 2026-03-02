@@ -1,20 +1,19 @@
 {
-  "soal": [
-    {
-      "id": 1,
-      "type": "multiple_choice",
-      "q": "Ibu membagi satu semangka menjadi beberapa bagian sama besar. Ayah mendapat 3/8 bagian, Ibu 1/4 bagian, dan Kakak 2/8 bagian. Urutan bagian terbesar sampai terkecil adalah ....",
-      "choices": [
-        "Ayah, Ibu, Kakak",
-        "Ibu, Ayah, Kakak",
-        "Ayah, Kakak, Ibu",
-        "Kakak, Ibu, Ayah"
-      ],
-      "answer": 0,
-      "score": 1,
-      "materi": "membandingkan pecahan",
-      "kognitif": "C4"
-    },
+  "id": 1,
+  "type": "multiple_choice",
+  "q": "Bagian Ayah adalah 3/8",
+  "fraction": {
+    "pembilang": 3,
+    "penyebut": 8
+  },
+  "choices": [
+    "3/8",
+    "1/4",
+    "2/8",
+    "1/2"
+  ],
+  "answer": 0
+},
     {
       "id": 2,
       "type": "multiple_choice",
