@@ -1,0 +1,79 @@
+{
+  "soal": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "q": "Ibu membagi satu semangka menjadi beberapa bagian sama besar. Ayah mendapat 3/8 bagian, Ibu 1/4 bagian, dan Kakak 2/8 bagian. Urutan bagian terbesar sampai terkecil adalah ....",
+      "choices": [
+        "Ayah, Ibu, Kakak",
+        "Ibu, Ayah, Kakak",
+        "Ayah, Kakak, Ibu",
+        "Kakak, Ibu, Ayah"
+      ],
+      "answer": 0,
+      "score": 1,
+      "materi": "membandingkan pecahan",
+      "kognitif": "C4"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "q": "Roti dibagi menjadi beberapa bagian sama besar. Andi mendapat 5/10 bagian, Budi 1/2 bagian, dan Cici 3/10 bagian. Siapa yang mendapat bagian paling besar?",
+      "choices": [
+        "Andi",
+        "Budi",
+        "Cici",
+        "Semua sama besar"
+      ],
+      "answer": 3,
+      "score": 1,
+      "materi": "pecahan senilai",
+      "kognitif": "C3"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "q": "Sebuah kue dipotong sama besar. Dina mendapat 4/12 bagian, Rina 1/3 bagian, dan Sinta 2/6 bagian. Urutan dari yang terkecil ke terbesar adalah ....",
+      "choices": [
+        "Dina, Rina, Sinta",
+        "Rina, Sinta, Dina",
+        "Dina, Rina dan Sinta (sama besar)",
+        "Rina, Dina, Sinta"
+      ],
+      "answer": 2,
+      "score": 1,
+      "materi": "pecahan senilai dan perbandingan",
+      "kognitif": "C4"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "q": "Pak Guru memiliki satu buah melon. Bagian yang dimakan Edo adalah 2/5, bagian yang dimakan Tono 3/10, dan bagian yang dimakan Rudi 1/5. Bagian terbesar dimakan oleh ....",
+      "choices": [
+        "Edo",
+        "Tono",
+        "Rudi",
+        "Edo dan Tono sama besar"
+      ],
+      "answer": 0,
+      "score": 1,
+      "materi": "membandingkan pecahan berbeda penyebut",
+      "kognitif": "C4"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "q": "Satu loyang brownies dibagi sama besar. Lala mendapat 7/20 bagian, Mila 1/4 bagian, dan Nia 2/5 bagian. Urutan dari terbesar ke terkecil adalah ....",
+      "choices": [
+        "Nia, Lala, Mila",
+        "Nia, Mila, Lala",
+        "Lala, Nia, Mila",
+        "Mila, Lala, Nia"
+      ],
+      "answer": 1,
+      "score": 1,
+      "materi": "membandingkan pecahan",
+      "kognitif": "C4"
+    }
+  ]
+}
