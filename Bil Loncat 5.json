@@ -3,101 +3,61 @@
     {
       "id": 1,
       "type": "multiple_choice",
-      "q": "Di kelas, Rani menghitung buku dengan bilangan loncat 2 mulai dari angka 2: 2, 4, 6, 8. Angka berikutnya adalah ...",
-      "choices": ["9", "10", "11", "12"],
+      "q": "Hasil dari 4/7 + 2/7 adalah ...",
+      "choices": ["5/7", "6/7", "7/7", "8/7"],
       "answer": 1,
       "score": 1,
-      "materi": "bilangan loncat 2",
-      "kognitif": "C3"
+      "materi": "penjumlahan pecahan berpenyebut sama",
+      "kognitif": "C2"
     },
     {
       "id": 2,
       "type": "multiple_choice",
-      "q": "Budi melompat di garis bilangan dari angka 3 dengan loncat 3: 3, 6, 9. Angka berikutnya adalah ...",
-      "choices": ["11", "12", "13", "14"],
+      "q": "Hasil dari 5/6 - 1/2 adalah ...",
+      "choices": ["1/6", "1/3", "2/3", "3/6"],
       "answer": 1,
       "score": 1,
-      "materi": "bilangan loncat 3",
+      "materi": "pengurangan pecahan beda penyebut",
       "kognitif": "C3"
     },
     {
       "id": 3,
       "type": "multiple_choice",
-      "q": "Siti memiliki 7 permen. Ia membeli lagi 8 permen. Jumlah permen Siti sekarang adalah ...",
-      "choices": ["14", "15", "16", "17"],
-      "answer": 1,
+      "q": "Hasil dari 3/5 - 4/7 adalah ...",
+      "choices": ["1/35", "2/35", "3/35", "4/35"],
+      "answer": 0,
       "score": 1,
-      "materi": "penjumlahan 1-20",
-      "kognitif": "C2"
+      "materi": "pengurangan pecahan beda penyebut",
+      "kognitif": "C3"
     },
     {
       "id": 4,
       "type": "multiple_choice",
-      "q": "Di taman ada 15 burung. Sebanyak 6 burung terbang pergi. Sisa burung di taman adalah ...",
-      "choices": ["7", "8", "9", "10"],
-      "answer": 2,
+      "q": "Urutan pecahan dari yang terkecil ke terbesar yang benar adalah ... (2/3, 1/6, 5/6)",
+      "choices": [
+        "1/6, 2/3, 5/6",
+        "2/3, 1/6, 5/6",
+        "1/6, 5/6, 2/3",
+        "5/6, 2/3, 1/6"
+      ],
+      "answer": 0,
       "score": 1,
-      "materi": "pengurangan 1-20",
-      "kognitif": "C2"
+      "materi": "mengurutkan pecahan",
+      "kognitif": "C4"
     },
     {
       "id": 5,
       "type": "multiple_choice",
-      "q": "Andi menghitung kelereng dengan bilangan loncat 4 mulai dari angka 4: 4, 8, 12. Angka berikutnya adalah ...",
-      "choices": ["14", "15", "16", "17"],
-      "answer": 2,
+      "q": "Urutan pecahan dari yang terbesar ke terkecil yang benar adalah ... (7/10, 3/5, 9/10)",
+      "choices": [
+        "9/10, 7/10, 3/5",
+        "7/10, 9/10, 3/5",
+        "9/10, 3/5, 7/10",
+        "3/5, 7/10, 9/10"
+      ],
+      "answer": 0,
       "score": 1,
-      "materi": "bilangan loncat 4",
-      "kognitif": "C3"
-    },
-    {
-      "id": 6,
-      "type": "multiple_choice",
-      "q": "Ibu membeli 9 apel lalu membeli lagi 5 apel. Jumlah apel ibu seluruhnya adalah ...",
-      "choices": ["13", "14", "15", "16"],
-      "answer": 1,
-      "score": 1,
-      "materi": "penjumlahan 1-20",
-      "kognitif": "C2"
-    },
-    {
-      "id": 7,
-      "type": "multiple_choice",
-      "q": "Di rak ada 18 buku. Dipinjam 7 buku oleh siswa. Jumlah buku yang tersisa adalah ...",
-      "choices": ["10", "11", "12", "13"],
-      "answer": 1,
-      "score": 1,
-      "materi": "pengurangan 1-20",
-      "kognitif": "C2"
-    },
-    {
-      "id": 8,
-      "type": "multiple_choice",
-      "q": "Lina melompat di papan angka mulai dari 5 dengan loncat 5: 5, 10, 15. Angka berikutnya adalah ...",
-      "choices": ["18", "19", "20", "21"],
-      "answer": 2,
-      "score": 1,
-      "materi": "bilangan loncat 5",
-      "kognitif": "C3"
-    },
-    {
-      "id": 9,
-      "type": "multiple_choice",
-      "q": "Rudi memiliki 12 pensil. Ia kehilangan 4 pensil. Banyak pensil Rudi sekarang adalah ...",
-      "choices": ["6", "7", "8", "9"],
-      "answer": 2,
-      "score": 1,
-      "materi": "pengurangan 1-20",
-      "kognitif": "C2"
-    },
-    {
-      "id": 10,
-      "type": "multiple_choice",
-      "q": "Tina menghitung dengan bilangan loncat 2 mulai dari angka 1 sampai 19. Angka terakhir yang disebut Tina adalah ...",
-      "choices": ["17", "18", "19", "20"],
-      "answer": 2,
-      "score": 1,
-      "materi": "bilangan loncat 2",
+      "materi": "mengurutkan pecahan",
       "kognitif": "C4"
     }
   ]
