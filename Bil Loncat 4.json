@@ -3,8 +3,8 @@
     {
       "id": 1,
       "type": "multiple_choice",
-      "q": "Ani menghitung dengan bilangan loncat 2 dimulai dari angka 1: 1, 3, 5. Angka berikutnya adalah ...",
-      "choices": ["6", "7", "8", "9"],
+      "q": "Di kelas, Rani menghitung buku dengan bilangan loncat 2 mulai dari angka 2: 2, 4, 6, 8. Angka berikutnya adalah ...",
+      "choices": ["9", "10", "11", "12"],
       "answer": 1,
       "score": 1,
       "materi": "bilangan loncat 2",
@@ -13,69 +13,69 @@
     {
       "id": 2,
       "type": "multiple_choice",
-      "q": "Budi melangkah di papan angka dengan bilangan loncat 3 dimulai dari 1. Setelah 4 langkah, angka yang diinjak Budi adalah ...",
-      "choices": ["10", "11", "12", "13"],
+      "q": "Budi melompat di garis bilangan dari angka 3 dengan loncat 3: 3, 6, 9. Angka berikutnya adalah ...",
+      "choices": ["11", "12", "13", "14"],
       "answer": 1,
       "score": 1,
       "materi": "bilangan loncat 3",
-      "kognitif": "C4"
+      "kognitif": "C3"
     },
     {
       "id": 3,
       "type": "multiple_choice",
-      "q": "Siti menghitung kancing dengan bilangan loncat 4 dimulai dari 1: 1, 5, 9. Angka berikutnya adalah ...",
-      "choices": ["12", "13", "14", "15"],
+      "q": "Siti memiliki 7 permen. Ia membeli lagi 8 permen. Jumlah permen Siti sekarang adalah ...",
+      "choices": ["14", "15", "16", "17"],
       "answer": 1,
       "score": 1,
-      "materi": "bilangan loncat 4",
-      "kognitif": "C3"
+      "materi": "penjumlahan 1-20",
+      "kognitif": "C2"
     },
     {
       "id": 4,
       "type": "multiple_choice",
-      "q": "Doni berdiri di angka 1 lalu melompat dengan bilangan loncat 5 sebanyak 3 kali. Angka tempat Doni berhenti adalah ...",
-      "choices": ["11", "12", "13", "14"],
+      "q": "Di taman ada 15 burung. Sebanyak 6 burung terbang pergi. Sisa burung di taman adalah ...",
+      "choices": ["7", "8", "9", "10"],
       "answer": 2,
       "score": 1,
-      "materi": "bilangan loncat 5",
-      "kognitif": "C4"
+      "materi": "pengurangan 1-20",
+      "kognitif": "C2"
     },
     {
       "id": 5,
       "type": "multiple_choice",
-      "q": "Guru menulis bilangan loncat 2 dimulai dari 1 hingga kurang dari 10. Bilangan terakhir yang ditulis guru adalah ...",
-      "choices": ["7", "8", "9", "10"],
+      "q": "Andi menghitung kelereng dengan bilangan loncat 4 mulai dari angka 4: 4, 8, 12. Angka berikutnya adalah ...",
+      "choices": ["14", "15", "16", "17"],
       "answer": 2,
-      "score": 1,
-      "materi": "bilangan loncat 2",
-      "kognitif": "C4"
-    },
-    {
-      "id": 6,
-      "type": "multiple_choice",
-      "q": "Rina menghitung manik-manik dengan bilangan loncat 3 dimulai dari 1. Jika Rina menyebut angka 13, berapa kali Rina melompat?",
-      "choices": ["3 kali", "4 kali", "5 kali", "6 kali"],
-      "answer": 2,
-      "score": 1,
-      "materi": "bilangan loncat 3",
-      "kognitif": "C4"
-    },
-    {
-      "id": 7,
-      "type": "multiple_choice",
-      "q": "Pada garis bilangan, Edo melompat dari angka 1 dengan pola loncat 4. Angka ketiga yang diinjak Edo adalah ...",
-      "choices": ["5", "9", "13", "17"],
-      "answer": 1,
       "score": 1,
       "materi": "bilangan loncat 4",
       "kognitif": "C3"
     },
     {
+      "id": 6,
+      "type": "multiple_choice",
+      "q": "Ibu membeli 9 apel lalu membeli lagi 5 apel. Jumlah apel ibu seluruhnya adalah ...",
+      "choices": ["13", "14", "15", "16"],
+      "answer": 1,
+      "score": 1,
+      "materi": "penjumlahan 1-20",
+      "kognitif": "C2"
+    },
+    {
+      "id": 7,
+      "type": "multiple_choice",
+      "q": "Di rak ada 18 buku. Dipinjam 7 buku oleh siswa. Jumlah buku yang tersisa adalah ...",
+      "choices": ["10", "11", "12", "13"],
+      "answer": 1,
+      "score": 1,
+      "materi": "pengurangan 1-20",
+      "kognitif": "C2"
+    },
+    {
       "id": 8,
       "type": "multiple_choice",
-      "q": "Lina menghitung dengan bilangan loncat 5 dimulai dari 1. Angka kedua yang disebut Lina adalah ...",
-      "choices": ["5", "6", "7", "8"],
-      "answer": 1,
+      "q": "Lina melompat di papan angka mulai dari 5 dengan loncat 5: 5, 10, 15. Angka berikutnya adalah ...",
+      "choices": ["18", "19", "20", "21"],
+      "answer": 2,
       "score": 1,
       "materi": "bilangan loncat 5",
       "kognitif": "C3"
@@ -83,21 +83,21 @@
     {
       "id": 9,
       "type": "multiple_choice",
-      "q": "Pak Guru meminta siswa menghitung dengan bilangan loncat 2 mulai dari 1 sampai 15. Banyak bilangan yang disebut siswa adalah ...",
-      "choices": ["7", "8", "9", "10"],
-      "answer": 1,
+      "q": "Rudi memiliki 12 pensil. Ia kehilangan 4 pensil. Banyak pensil Rudi sekarang adalah ...",
+      "choices": ["6", "7", "8", "9"],
+      "answer": 2,
       "score": 1,
-      "materi": "bilangan loncat 2",
-      "kognitif": "C4"
+      "materi": "pengurangan 1-20",
+      "kognitif": "C2"
     },
     {
       "id": 10,
       "type": "multiple_choice",
-      "q": "Ani berjalan di lantai bernomor dengan bilangan loncat 3 dari angka 1. Jika Ani berhenti di angka 16, langkah yang dilakukan Ani adalah ...",
-      "choices": ["4 langkah", "5 langkah", "6 langkah", "7 langkah"],
+      "q": "Tina menghitung dengan bilangan loncat 2 mulai dari angka 1 sampai 19. Angka terakhir yang disebut Tina adalah ...",
+      "choices": ["17", "18", "19", "20"],
       "answer": 2,
       "score": 1,
-      "materi": "bilangan loncat 3",
+      "materi": "bilangan loncat 2",
       "kognitif": "C4"
     }
   ]
