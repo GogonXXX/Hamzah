@@ -1,0 +1,79 @@
+{
+  "soal": [
+    {
+      "id": 1,
+      "type": "multiple_choice",
+      "q": "Perhatikan teks berikut!\nPerkembangan teknologi komunikasi semakin pesat dari waktu ke waktu. Dahulu, orang menggunakan surat untuk menyampaikan pesan jarak jauh. Kini, pesan dapat dikirim melalui telepon pintar dalam hitungan detik. Internet memungkinkan manusia terhubung tanpa batas wilayah. Media sosial juga menjadi sarana berbagi informasi secara cepat. Semua teknologi tersebut memanfaatkan jaringan digital.\n\nBerdasarkan teks tersebut, istilah khusus dalam bidang teknologi informasi adalah ...",
+      "choices": [
+        "surat dan pesan",
+        "internet dan jaringan digital",
+        "manusia dan wilayah",
+        "waktu dan informasi"
+      ],
+      "answer": 1,
+      "score": 1,
+      "materi": "kata khusus bidang teknologi",
+      "kognitif": "C2"
+    },
+    {
+      "id": 2,
+      "type": "multiple_choice",
+      "q": "Perhatikan teks berikut!\nKegiatan ekonomi masyarakat meliputi produksi, distribusi, dan konsumsi. Produksi adalah kegiatan menghasilkan barang atau jasa. Barang yang telah diproduksi kemudian disalurkan melalui proses distribusi. Konsumen adalah pihak yang menggunakan barang atau jasa tersebut. Kegiatan ekonomi bertujuan untuk memenuhi kebutuhan hidup manusia. Semua kegiatan ini saling berkaitan satu sama lain.\n\nKata khusus dalam bidang ekonomi yang terdapat pada teks tersebut adalah ...",
+      "choices": [
+        "manusia dan kebutuhan",
+        "barang dan jasa",
+        "produksi dan distribusi",
+        "kegiatan dan pihak"
+      ],
+      "answer": 2,
+      "score": 1,
+      "materi": "kata khusus bidang ekonomi",
+      "kognitif": "C2"
+    },
+    {
+      "id": 3,
+      "type": "multiple_choice",
+      "q": "Perhatikan teks berikut!\nOlahraga secara teratur dapat meningkatkan kebugaran jasmani. Saat berolahraga, denyut jantung akan meningkat. Otot-otot tubuh bekerja lebih aktif dan pernapasan menjadi lebih cepat. Aktivitas ini membantu melancarkan peredaran darah. Selain itu, olahraga juga dapat meningkatkan daya tahan tubuh. Oleh karena itu, setiap orang dianjurkan untuk rutin berolahraga.\n\nIstilah khusus dalam bidang kesehatan yang terdapat pada teks tersebut adalah ...",
+      "choices": [
+        "tubuh dan orang",
+        "denyut jantung dan peredaran darah",
+        "olahraga dan aktivitas",
+        "cepat dan rutin"
+      ],
+      "answer": 1,
+      "score": 1,
+      "materi": "kata khusus bidang kesehatan",
+      "kognitif": "C2"
+    },
+    {
+      "id": 4,
+      "type": "multiple_choice",
+      "q": "Perhatikan teks berikut!\nBenda dapat mengalami perubahan wujud karena pengaruh suhu. Es yang dipanaskan akan mencair menjadi air. Peristiwa ini disebut mencair. Sebaliknya, air yang didinginkan dapat membeku menjadi es. Proses perubahan wujud ini terjadi karena adanya perpindahan kalor. Setiap zat memiliki titik leleh dan titik beku yang berbeda.\n\nKata khusus dalam bidang fisika yang terdapat pada teks tersebut adalah ...",
+      "choices": [
+        "air dan es",
+        "dipanaskan dan didinginkan",
+        "mencair dan kalor",
+        "benda dan proses"
+      ],
+      "answer": 2,
+      "score": 1,
+      "materi": "kata khusus bidang fisika",
+      "kognitif": "C2"
+    },
+    {
+      "id": 5,
+      "type": "multiple_choice",
+      "q": "Perhatikan teks berikut!\nIndonesia merupakan negara yang memiliki beragam budaya. Setiap daerah memiliki tarian tradisional yang berbeda. Selain itu, terdapat pula berbagai rumah adat dan pakaian adat. Keberagaman tersebut menjadi kekayaan nasional yang patut dilestarikan. Pemerintah dan masyarakat perlu bekerja sama menjaga warisan budaya. Dengan demikian, identitas bangsa tetap terjaga.\n\nIstilah khusus dalam bidang sosial budaya yang terdapat pada teks tersebut adalah ...",
+      "choices": [
+        "negara dan daerah",
+        "tarian tradisional dan rumah adat",
+        "pemerintah dan masyarakat",
+        "bangsa dan identitas"
+      ],
+      "answer": 1,
+      "score": 1,
+      "materi": "kata khusus bidang sosial budaya",
+      "kognitif": "C2"
+    }
+  ]
+}
